@@ -1,1 +1,14 @@
 .svn
+*.BAK
+*.PAS
+*.TP?
+*.tp?
+BP.DSK
+arbeitszeit.ods
+bp.psm
+bp.tp
+bpw.cfg
+bpw.psm
+*.pas
+funkuhr.pdf
+pctest.map

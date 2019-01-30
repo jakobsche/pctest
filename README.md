@@ -1,5 +1,5 @@
 # pctest
-Public Domain-Anwendung, um RS232-Schnittstellen und Kabel zu testen. Auf realen DOS-PC (i386 oder kompatibel mit DOS) untersucht es die Hardware. In DOSBox macht es dasgleiche mit dem virtuellen Schnittstellencontroller und dem realen Kabel (z.B. an einem über USB angeschlossenen Adapter). Mit anderen DOS-Emulatoren wurde die Anwendung noch nicht getestet.
+Public Domain-Anwendung, um RS232-Schnittstellen und Kabel zu testen. Auf realen DOS-PC (i386 oder kompatibel mit DOS) untersucht es die Hardware. In DOSBox macht es dasgleiche mit dem virtuellen Schnittstellencontroller und dem realen Kabel (z.B. an einem über USB angeschlossenen Adapter). Mit anderen DOS-Emulatoren wurde die Anwendung noch nicht getestet. Softwareseitig kompatible Schnittstellen wie RS422 und entsprechende Kabel können ebenfalls getestet werden.
 
 Grundsätzliches / Lizenz
 ------------------------
@@ -24,3 +24,4 @@ Die beschriebenen Tests konnten bisher mit folgenden Anwendungsumgebungen erfolg
 - IBM-PC oder kompatibler mit i386-CPU oder kompatibler und MS-DOS
 - verschiedene mobile und immobile PC mit Linux und DOSBox
 - Raspberry Pi mit Linux und DOSBox
+Weitere getestete Konfigurationen sind im Info-Dialog der Anwendung beschrieben.

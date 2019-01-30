@@ -24,4 +24,5 @@ Die beschriebenen Tests konnten bisher mit folgenden Anwendungsumgebungen erfolg
 - IBM-PC oder kompatibler mit i386-CPU oder kompatibler und MS-DOS
 - verschiedene mobile und immobile PC mit Linux und DOSBox
 - Raspberry Pi mit Linux und DOSBox
+
 Weitere getestete Konfigurationen sind im Info-Dialog der Anwendung beschrieben.

@@ -12,3 +12,5 @@ bpw.psm
 *.pas
 funkuhr.pdf
 pctest.map
+.DS_Store
+
